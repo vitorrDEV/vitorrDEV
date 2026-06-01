@@ -6,11 +6,6 @@ Me chamo Vitor Leite Mendes, tenho 22 anos e sou natural de Minas Gerais. Atualm
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
