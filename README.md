@@ -8,7 +8,7 @@ Me chamo Vitor Leite Mendes, tenho 22 anos e sou natural de Minas Gerais. Atualm
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -24,4 +24,4 @@ Me chamo Vitor Leite Mendes, tenho 22 anos e sou natural de Minas Gerais. Atualm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+####
