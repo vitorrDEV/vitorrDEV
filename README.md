@@ -5,6 +5,24 @@
 Me chamo Vitor Leite Mendes, tenho 22 anos e sou natural de Minas Gerais. Atualmente, curso Engenharia de Software, possuo formação técnica em Manutenção e Suporte em Informática, o que me ajudou a construir uma base sólida em hardware, software e suporte técnico. Atualmente, meu foco principal de estudos é o desenvolvimento backend, especialmente com Java. 
 
 
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
 
 ###
 
